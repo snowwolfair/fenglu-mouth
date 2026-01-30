@@ -13,15 +13,15 @@ export const usage = `
 
 <p>目前仅测试了 <b>Onebot</b> 协议</p>
 
-<p>仓库地址：<a href="https://github.com/snowwolfair/daynew">https://github.com/snowwolfair/daynew</a></p>
+<p>仓库地址：<a href="https://github.com/snowwolfair/fenglu-mouth">https://github.com/snowwolfair/fenglu-mouth</a></p>
 
 <p style="color: #f39c12;">插件使用问题 / Bug反馈 / 建议 请 添加企鹅群 <b style="color: #bd73fa;">156529412</b> 或在仓库中发 <a href="https://github.com/snowwolfair/daynew/issues" >issue</a> </p>
 
 <p>灵感来源于该梗图 </p>
-<img src="src/asset/chart.jpg" alt="chart" />
+<img src="https://github.com/snowwolfair/fenglu-mouth/blob/master/src/asset/chart.jpg" alt="chart" />
 
 <h2>食用方法</h2>
-<p> 在群内发送命令 <b style="color: #08b402ff;">elu</b> , 然后根据提示输入工资即可查询俸禄</p>
+<p> 在群内发送命令 <b style="color: #08b402ff;">elu</b> 或 <b style="color: #08b402ff;">查询俸禄</b> , 然后根据提示输入工资即可查询俸禄</p>
 <hr>
 <p> 目前仅支持使用 <b>https://www.goldapi.io</b> 提供的 api 源</p>
 <p> 若需要使用其他 api 源，请通过 <b style="color: #bd73fa;">QQ</b> 或者 <b style="color: #bd73fa;">提交issue </b> 添加</p>
