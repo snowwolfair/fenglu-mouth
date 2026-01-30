@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-fenglu-mouth",
   "description": "Emolument Change Plugin",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -28,7 +28,7 @@
   "koishi": {
     "description": {
       "en": "Emolument Change Plugin",
-      "zh": "俸禄转换插件"
+      "zh": "俸禄转换插件,将你的月工资转换为俸禄，看看你属于哪个等级吧\n(接入实时银价查询，俸禄每天都在变(bushi))"
     },
     "service": {
       "required": [
