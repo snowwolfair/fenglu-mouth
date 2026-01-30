@@ -17,7 +17,8 @@ export const usage = `
 
 <p style="color: #f39c12;">插件使用问题 / Bug反馈 / 建议 请 添加QQ群 <b style="color: #bd73fa;">156529412</b> 或在仓库中发 <a href="https://github.com/snowwolfair/daynew/issues" >issue</a> </p>
 
-<p>灵感来源于该梗图 </p>
+<details>
+<summary>灵感来源于该梗图 </summary>
 <img src="https://github.com/snowwolfair/fenglu-mouth/raw/master/src/asset/chart.jpg" alt="chart" />
 
 <h2>食用方法</h2>
