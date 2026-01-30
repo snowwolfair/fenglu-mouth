@@ -20,6 +20,7 @@ export const usage = `
 <details>
 <summary>灵感来源于该梗图 </summary>
 <img src="https://github.com/snowwolfair/fenglu-mouth/raw/master/src/asset/chart.jpg" alt="chart" />
+</details>
 
 <h2>食用方法</h2>
 <p> 在群内发送命令 <b style="color: #08b402ff;">elu</b> 或 <b style="color: #08b402ff;">查询俸禄</b> , 然后根据提示输入工资即可查询俸禄</p>

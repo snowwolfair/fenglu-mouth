@@ -9,6 +9,7 @@
 <details>
 <summary>灵感来源于该梗图 </summary>
 <img src="/src/asset/chart.jpg" alt="chart" />
+</details>
 
 # 食用方法
 
