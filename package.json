@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-fenglu-mouth",
-  "description": "just a funny",
+  "description": "",
   "version": "0.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -9,14 +9,36 @@
     "dist"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/snowwolfair/daynew",
+  "bugs": {
+    "url": "https://github.com/snowwolfair/daynew/issues"
+  },
   "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
   "peerDependencies": {
     "koishi": "^4.18.7"
+  },
+  "dependencies": {
+    "koishi-plugin-adapter-onebot": "^6.8.0"
+  },
+  "koishi": {
+    "description": {
+      "en": "Daily 60s News Plugin",
+      "zh": "俸禄转换插件"
+    },
+    "service": {
+      "required": [
+        "database"
+      ],
+      "optional": [
+        "adapter-onebot"
+      ]
+    },
+    "preview": true,
+    "browser": true
   }
 }
